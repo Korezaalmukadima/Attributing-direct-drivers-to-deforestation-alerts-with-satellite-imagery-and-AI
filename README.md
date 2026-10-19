@@ -1,6 +1,6 @@
 # Klasifikasi Driver Deforestasi Tropis dengan CNN Multi-Sensor (Sentinel-1 + Sentinel-2)
 
-Repositori ini berisi **resume materi kuliah tamu**, **insight untuk skripsi**, dan **studi kasus + implementasi kode**
+**resume materi kuliah tamu**, **insight untuk skripsi**, dan **studi kasus + implementasi kode**
 berdasarkan presentasi *Dr. Bart Slachter* (Wageningen University) tentang deforestation alerts dan atribusi *direct driver*
 berbasis AI.
 
